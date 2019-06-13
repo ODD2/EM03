@@ -1,2 +1,2 @@
-#TargetFrameworkVersion=v4.5.2:PlatformToolSet=v140:EnableManagedIncrementalBuild=true:VCToolArchitecture=Native32Bit
-Release|Win32|D:\2016ME\P3\Fourier Transform\Fourier Transform\Fourier Transform\|
+#TargetFrameworkVersion=v4.5.2:PlatformToolSet=v141:EnableManagedIncrementalBuild=true:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.16299.0
+Release|Win32|C:\Users\OD\Documents\Visual Studio 2015\Projects\工數3\Fourier Transform\|
